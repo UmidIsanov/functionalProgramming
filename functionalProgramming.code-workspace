@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "functionalProgramming",
+			"path": "."
+		},
+		{
+			"name": "lab5",
+			"path": "../analizDanix/lab5"
+		}
+	],
+	"settings": {}
+}
